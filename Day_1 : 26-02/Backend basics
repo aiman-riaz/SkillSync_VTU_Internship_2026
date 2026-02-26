@@ -1,0 +1,13 @@
+Backend development handles the server-side logic, database, and core functionality of web applications. It ensures smooth communication between the server and client using languages and frameworks like Node.js, Django, and Spring
+Node.js is a powerful, open-source, and cross-platform JavaScript runtime environment built on Chrome's V8 engine. It allows you to run JavaScript code outside the browser, making it ideal for building scalable server-side and networking applications.
+JavaScript was mainly used for frontend development earlier. With Node.js (introduced in 2009), JavaScript became a backend language as well.
+Non-blocking, event-driven architecture for high performance.
+Supports the creation of REST APIs, real-time applications, and microservices.
+Comes with a rich library of modules through npm (Node Package Manager).
+An API (Application Programming Interface) allows applications to communicate by handling data access and responses between systems. Backend developers use APIs to connect services and improve user experience. Express.js is a popular choice for creating and managing APIs for seamless client-server interaction. Some of the APIs you should know about are:
+REST
+JSON
+SOAP
+GSON
+XML-RPC
+AES
