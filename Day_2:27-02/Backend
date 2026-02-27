@@ -1,1 +1,2 @@
-Client-Server Architecture
+Client-server architecture is a distributed computing model that divides tasks between two main types of nodes: clients, which request services or resources, and servers, which provide them. This "request-response" pattern is the fundamental backbone of the modern internet.
+Express.js is a minimal, flexible, and unopinionated Node.js web application framework that provides a robust set of features for building web and mobile applications and APIs. It is the de facto standard server framework for Node.js, designed to simplify server-side development
